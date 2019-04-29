@@ -7,6 +7,8 @@ import javax.swing.SwingUtilities;
 import javax.swing.Timer;
 
 //import audios.BGMusic;
+import constant.TimerCopy;
+import constant.TimerTaskCopy;
 
 import java.awt.Color;
 import java.awt.Dimension;
